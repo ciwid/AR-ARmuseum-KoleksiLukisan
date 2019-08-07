@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pemimpin4" size="600.000000 399.230774" />
+    <ImageTarget name="pemimpin3" size="600.000000 399.086761" />
+    <ImageTarget name="pemimpin2" size="600.000000 385.907043" />
+    <ImageTarget name="pemimpin" size="600.000000 391.384613" />
+    <ImageTarget name="singa" size="600.000000 394.117645" />
+    <ImageTarget name="LeeKwanYou" size="600.000000 756.382996" />
+    <ImageTarget name="SultanHasanahBolkiah" size="600.000000 760.655762" />
+    <ImageTarget name="Soeharto" size="600.000000 746.419128" />
+    <ImageTarget name="IbuTien" size="600.000000 748.031494" />
+    <ImageTarget name="BungHatta" size="600.000000 761.599976" />
+    <ImageTarget name="BungKarno" size="600.000000 757.575745" />
+    <ImageTarget name="FerdinandMarcosSedangMenujuk" size="600.000000 471.428558" />
+    <ImageTarget name="berenang" size="600.000000 291.928253" />
+    <ImageTarget name="lautan" size="600.000000 378.175903" />
+    <ImageTarget name="batu" size="600.000000 481.121490" />
+    <ImageTarget name="tari" size="600.000000 402.477875" />
+    <ImageTarget name="api" size="600.000000 875.200012" />
+    <ImageTarget name="bunga" size="600.000000 480.000000" />
+    <ImageTarget name="setan" size="600.000000 393.718994" />
+    <ImageTarget name="King" size="600.000000 927.605103" />
+    <ImageTarget name="Queen" size="600.000000 901.159790" />
+  </Tracking>
+</QCARConfig>
